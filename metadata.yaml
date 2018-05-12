@@ -1,0 +1,27 @@
+_repo: Ray-s-DaughterA-Story-of-Manila_19480
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: King, Charles
+    birthdate: 1844
+    deathdate: 1933
+    gutenberg_agent_id: '6787'
+    url: http://www.gutenberg.org/2009/agents/6787
+description: ''
+gutenberg_issued: '2006-10-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19480'
+  lccn: 00006805
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philippines -- History -- Philippine American War, 1899-1902 -- Fiction'
+- !lcc 'PS'
+title: 'Ray''s Daughter: A Story of Manila'
+url: http://www.gutenberg.org/ebooks/19480
